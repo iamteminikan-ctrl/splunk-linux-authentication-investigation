@@ -30,3 +30,23 @@ Exact raw-text deduplication was used to account for the duplicate upload. This 
 
 ## Disclaimer
 This project was conducted for educational and defensive cybersecurity learning using public sample logs.
+
+## Investigation Evidence
+
+The following screenshots provide supporting evidence for the Splunk Linux authentication investigation.
+
+### 1. SSH Authentication Failures
+[View evidence](evidence/01_ssh_authentication_failures.png)
+
+### 2. Top Source IPs
+[View evidence](evidence/02_top_source_ips.png)
+
+### 3. Targeted User Accounts
+[View evidence](evidence/03_targeted_user_accounts.png)
+
+### 4. Source IP and Target User Analysis
+[View evidence](evidence/04_source_ip_and_target_user.png)
+
+### 5. Highest-Count Source IP
+[View evidence](evidence/05_highest_count_source_ip.png)
+
